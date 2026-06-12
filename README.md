@@ -3,7 +3,7 @@
 
 This is the code for my thesis. 
 
-The codebase is divided into 2 files. One for the university server and one for the hospital server. Most of the code is repeated with some changes between the two servers. Some of the code was adapted from an earlier repository of my lung nodule segmentation internship such as the utils, data loaders and the training loop.
+The codebase is divided into 2 folders. One for the university server and one for the hospital server. Most of the code is repeated with some changes between the two servers. Some of the code was adapted from an earlier repository of my lung nodule segmentation internship such as the utils, data loaders and the training loop.
 
 
 ## University server code:
